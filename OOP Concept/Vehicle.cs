@@ -9,5 +9,6 @@ namespace OOP_Concept
     class Vehicle
     {
         public string VehicleNo { get; set; }
+        public string Color { get; set; }
     }
 }
